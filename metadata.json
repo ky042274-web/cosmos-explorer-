@@ -1,0 +1,6 @@
+{
+  "name": "COSMOS EXPLORER – The Universe at Your Fingertips",
+  "description": "Advanced AI-powered space exploration, astronomy research and educational platform with 3D solar system, NASA data, and Gemini AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
